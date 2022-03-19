@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/iopsv2/content-submission/_apis/build/status/shenshanyoumu.js-e2e-express-server?branchName=main)](https://dev.azure.com/iopsv2/content-submission/_build/latest?definitionId=74&branchName=main)
 ---
 page_type: sample
 languages:
